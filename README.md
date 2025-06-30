@@ -14,7 +14,6 @@ Python, TensorFlow, Keras, NumPy, Pandas, Matplotlib, Google Colab, LaTeX.
 
 #How to Use
 1. Clone this repository:
-   ```bash
- git clone https://github.com/pratiksha270/Landslide-Risk-Prediction.git
+   ```bashgit clone https://github.com/pratiksha270/Landslide-Risk-Prediction.git
 2. Open Landslide_Prediction.ipynb in Google Colab.
 3. Follow the notebook step by step.
