@@ -38,7 +38,8 @@ Accuracy: 98.80%
 F1 Score: 70.01%
 Precision: 78.55%
 Recall: 63.79%
-U-Net Predictions vs. Training Image:
+
+U-Net Predictions vs. Training Image: https://github.com/pratiksha270/Landslide-Risk-Prediction/blob/main/Result%20images/predictions_vs_training.png
 
 
 CNN Binary Classification Example: https://github.com/pratiksha270/Landslide-Risk-Prediction/blob/main/Result%20images/classification_result.png
