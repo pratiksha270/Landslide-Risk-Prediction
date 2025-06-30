@@ -31,7 +31,7 @@ Below are sample outputs demonstrating the input features, ground truth mask, mo
 Input Features and Segmentation Mask: https://github.com/pratiksha270/Landslide-Risk-Prediction/blob/main/Result%20images/input_features.png
 
 
-Segmentation Model Performance:
+Segmentation Model Performance: https://github.com/pratiksha270/Landslide-Risk-Prediction/blob/main/Result%20images/segmentation_result.png
 
 Loss: 3.19%
 Accuracy: 98.80%
