@@ -41,7 +41,7 @@ Recall: 63.79%
 U-Net Predictions vs. Training Image:
 
 
-CNN Binary Classification Example:
+CNN Binary Classification Example: https://github.com/pratiksha270/Landslide-Risk-Prediction/blob/main/Result%20images/classification_result.png
 
 The CNN classification model allows uploading new image files to check whether the area is landslide-prone or safe.
 
