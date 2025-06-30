@@ -28,7 +28,7 @@ Note: The dataset is not included in this repository due to size constraints. Re
 Results
 Below are sample outputs demonstrating the input features, ground truth mask, model predictions, and binary classification results.
 
-Input Features and Segmentation Mask:
+Input Features and Segmentation Mask: https://github.com/pratiksha270/Landslide-Risk-Prediction/blob/main/Result%20images/input_features.png
 
 
 Segmentation Model Performance:
